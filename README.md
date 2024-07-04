@@ -26,6 +26,10 @@ I have completed several courses to enhance my Android development skills. Below
   Credential ID: [4EXG4LMD9PRL](https://www.dicoding.com/certificates/4EXG4LMD9PRL)
 - **Belajar Prinsip Pemrograman SOLID**  
   Credential ID: [0LZ0DRY5RX65](https://www.dicoding.com/certificates/0LZ0DRY5RX65)
+- **Belajar Membuat Aplikasi Flutter untuk Pemula**  
+  Credential ID: [0LZ0DRY5RX65](https://www.dicoding.com/certificates/L4PQM1JN7ZO1)
+- **Memulai Pemrograman dengan Dart**  
+  Credential ID: [0LZ0DRY5RX65](https://www.dicoding.com/certificates/0LZ0175DQP65)
 
 ## 🌟 Projects
 I am actively working on various projects, some of which are open-source and available here on my GitHub profile. Check out my repositories to see what I have been working on!
