@@ -15,15 +15,15 @@ Welcome to my GitHub profile! I am Fadhlan Sulistiyo Hidayat, a passionate Andro
 I have completed several courses to enhance my Android development skills. Below are the courses I have completed along with their credential IDs:
 
 - **Get Started Programming with Kotlin**  
-  Credential ID: [4EXG4LMD9PRL](https://www.example.com/credential/4EXG4LMD9PRL)
+  Credential ID: [4EXG4LMD9PRL](https://www.dicoding.com/certificates/4EXG4LMD9PRL)
 - **Learn to Make Android Applications for Beginners**  
-  Credential ID: [07Z68N5GMXQR](https://www.example.com/credential/07Z68N5GMXQR)
+  Credential ID: [07Z68N5GMXQR](https://www.dicoding.com/certificates/07Z68N5GMXQR)
 - **Learn Android Application Fundamentals**  
-  Credential ID: [1OP8WVLG2XQK](https://www.example.com/credential/1OP8WVLG2XQK)
+  Credential ID: [1OP8WVLG2XQK](https://www.dicoding.com/certificates/1OP8WVLG2XQK)
 - **Learn Intermediate Android Application Development**  
   (On-progress)
 - **Learn SOLID Programming Principles**  
-  Credential ID: [0LZ0DRY5RX65](https://www.example.com/credential/0LZ0DRY5RX65)
+  Credential ID: [0LZ0DRY5RX65](https://www.dicoding.com/certificates/0LZ0DRY5RX65)
 - **Become an Android Developer Expert**  
   (On-progress)
 
@@ -42,6 +42,6 @@ Feel free to connect with me on social media:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 📧 Contact
-For any inquiries, feel free to reach out to me at [fadhlan@example.com](mailto:fadhlan@example.com).
+For any inquiries, feel free to reach out to me at [fadhlansulistiyo@gmail.com](mailto:fadhlansulistiyo@gmail.com).
 
 Thank you for visiting my profile! Let's build something amazing together.
