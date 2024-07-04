@@ -14,18 +14,18 @@ Welcome to my GitHub profile! I am Fadhlan Sulistiyo Hidayat, a passionate Andro
 ## 📚 Coding Academy Graduate
 I have completed several courses to enhance my Android development skills. Below are the courses I have completed along with their credential IDs:
 
-- **Get Started Programming with Kotlin**  
-  Credential ID: [4EXG4LMD9PRL](https://www.dicoding.com/certificates/4EXG4LMD9PRL)
-- **Learn to Make Android Applications for Beginners**  
-  Credential ID: [07Z68N5GMXQR](https://www.dicoding.com/certificates/07Z68N5GMXQR)
-- **Learn Android Application Fundamentals**  
+- **Menjadi Android Developer Expert**  
+  (On-progress)
+  - **Belajar Pengembangan Aplikasi Android Intermediate**  
+  (On-progress)
+- **Belajar Fundamental Aplikasi Android**  
   Credential ID: [1OP8WVLG2XQK](https://www.dicoding.com/certificates/1OP8WVLG2XQK)
-- **Learn Intermediate Android Application Development**  
-  (On-progress)
-- **Learn SOLID Programming Principles**  
+  - **Belajar Membuat Aplikasi Android untuk Pemula**  
+  Credential ID: [07Z68N5GMXQR](https://www.dicoding.com/certificates/07Z68N5GMXQR)
+- **Memulai Pemrograman dengan Kotlin**  
+  Credential ID: [4EXG4LMD9PRL](https://www.dicoding.com/certificates/4EXG4LMD9PRL)
+- **Belajar Prinsip Pemrograman SOLID**  
   Credential ID: [0LZ0DRY5RX65](https://www.dicoding.com/certificates/0LZ0DRY5RX65)
-- **Become an Android Developer Expert**  
-  (On-progress)
 
 ## 🌟 Projects
 I am actively working on various projects, some of which are open-source and available here on my GitHub profile. Check out my repositories to see what I have been working on!
