@@ -35,9 +35,6 @@ Feel free to connect with me on social media:
 - [LinkedIn](https://linkedin.com/in/fadhlansulistiyo)
 - [Instagram](https://instagram.com/fadhlansulistiyo)
 
-## 📈 GitHub Stats
-![Fadhlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhlansulistiyo&show_icons=true&theme=radical)
-
 ## 🛠️ Technologies & Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
