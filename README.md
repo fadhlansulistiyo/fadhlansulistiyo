@@ -17,7 +17,7 @@ I have completed several courses to enhance my Android development skills. Below
 - **Menjadi Android Developer Expert**  
   (On-progress)
 - **Belajar Pengembangan Aplikasi Android Intermediate**  
-  (On-progress)
+  Credential ID: [1RXYL3NLKPVM](https://www.dicoding.com/certificates/1RXYL3NLKPVM)
 - **Belajar Fundamental Aplikasi Android**  
   Credential ID: [1OP8WVLG2XQK](https://www.dicoding.com/certificates/1OP8WVLG2XQK)
 - **Belajar Membuat Aplikasi Android untuk Pemula**  
