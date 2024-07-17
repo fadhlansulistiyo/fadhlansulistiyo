@@ -25,7 +25,7 @@ I have completed several courses to enhance my Android development skills. Below
 - **Memulai Pemrograman dengan Kotlin**  
   Credential ID: [4EXG4LMD9PRL](https://www.dicoding.com/certificates/4EXG4LMD9PRL)
 - **Belajar Prinsip Pemrograman SOLID**  
-  Credential ID: [0LZ0DRY5RX65](https://www.dicoding.com/certificates/0LZ0DRY5RX65)
+  Credential ID: [GRX5OMKNRP0M](https://www.dicoding.com/certificates/GRX5OMKNRP0M)
 - **Belajar Membuat Aplikasi Flutter untuk Pemula**  
   Credential ID: [0LZ0DRY5RX65](https://www.dicoding.com/certificates/L4PQM1JN7ZO1)
 - **Memulai Pemrograman dengan Dart**  
