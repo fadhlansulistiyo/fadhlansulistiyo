@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am Fadhlan Sulistiyo Hidayat, a passionate Andro
 I have completed several courses to enhance my Android development skills. Below are the courses I have completed along with their credential IDs:
 
 - **Menjadi Android Developer Expert**  
-  (On-progress)
+  Credential ID: [EYX4V50RWZDL](https://www.dicoding.com/certificates/EYX4V50RWZDL)
 - **Belajar Pengembangan Aplikasi Android Intermediate**  
   Credential ID: [1RXYL3NLKPVM](https://www.dicoding.com/certificates/1RXYL3NLKPVM)
 - **Belajar Fundamental Aplikasi Android**  
