@@ -8,8 +8,9 @@ Welcome to my Portfolio profile! I am Fadhlan Sulistiyo Hidayat, a passionate An
 
 ### Cinema Database (CinDes)
 ![App Screenshot](CinemaDatabase/main_banner_v2.png)
+[https://github.com/fadhlansulistiyo/CinemaDatabase](https://github.com/fadhlansulistiyo/CinemaDatabase)
 
-Cinema Database (CinDes) is an Android application that showcases a collection of movies and TV shows, with data sourced directly from the TMDB API. Users can easily browse through popular titles, access detailed information, and discover new content. CinDes features a user-friendly interface, designed to provide a smooth and engaging browsing experience.
+Cinema Database (CinDes) is an Android application that showcases a collection of movies and TV shows, with data sourced directly from the TMDB API. Users can easily browse through popular titles, access detailed information, and discover new content. CinDes features a user-friendly interface, designed to provide a smooth and engaging browsing experience. 
 
 #### Features
 - Browse Movies & TV Shows: Explore a vast collection of popular and top-rated movies and TV shows.
@@ -52,6 +53,7 @@ Cinema Database (CinDes) is an Android application that showcases a collection o
 
 ### Coding Story App 
 ![App Screenshot](CodingStoryApp/main_banner.png)
+[https://github.com/fadhlansulistiyo/CodingStoryApp](https://github.com/fadhlansulistiyo/CodingStoryApp)
 
 This is an Android application designed for sharing stories from the Dicoding academy. The application retrieves data using the Dicoding API and integrates various modern Android development technologies.
 
@@ -84,7 +86,7 @@ This is an Android application designed for sharing stories from the Dicoding ac
 ![](CodingStoryApp/banner2.png) 
 ##
 
-<br><br>
+<br>
 
 ## 📚 Coding Academy Graduate
 I have completed several courses to enhance my Android development skills. Below are the courses I have completed along with their credential IDs:
