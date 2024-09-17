@@ -8,9 +8,10 @@ Welcome to my Portfolio profile! I am Fadhlan Sulistiyo Hidayat, a passionate An
 
 ### Cinema Database (CinDes)
 ![App Screenshot](CinemaDatabase/main_banner_v2.png)
-[https://github.com/fadhlansulistiyo/CinemaDatabase](https://github.com/fadhlansulistiyo/CinemaDatabase)
 
 Cinema Database (CinDes) is an Android application that showcases a collection of movies and TV shows, with data sourced directly from the TMDB API. Users can easily browse through popular titles, access detailed information, and discover new content. CinDes features a user-friendly interface, designed to provide a smooth and engaging browsing experience. 
+
+##### [Click Here for More Details >](https://github.com/fadhlansulistiyo/CinemaDatabase)
 
 #### Features
 - Browse Movies & TV Shows: Explore a vast collection of popular and top-rated movies and TV shows.
@@ -21,41 +22,14 @@ Cinema Database (CinDes) is an Android application that showcases a collection o
 - Watchlist: Add movies and TV shows to your watchlist for easy access later.
 - Offline Access: Access previously viewed content on the home screen even without an internet connection.
 
-#### Tech Stack
-
-- **Clean Architecture**: Organized into Data, Domain, and Presentation layers for modularity and separation of concerns.
-- **Kotlin**: Primary programming language used for developing the application.
-- **Dynamic Feature**: Implements a dynamic feature module for the Watchlist feature.
-- **Library Module**: Core functionality is encapsulated within a reusable library module.
-- **Coroutines**: Manages asynchronous programming.
-- **Data Stream (Coroutines Flow)**: Streams asynchronous data.
-- **Hilt**: Dependency Injection framework for managing app components.
-- **Retrofit**: Type-safe HTTP client for API communication.
-- **Room**: Local database solution for managing app data.
-- **SQLCipher**: Adds encryption to the local database for enhanced security.
-- **Jetpack Navigation Component**: Manages in-app navigation, including Bottom Navigation.
-- **Glide**: Image loading and caching library.
-- **ViewPager2**: Enhanced ViewPager for swiping movies.
-- **Paging**: Handles efficient data pagination for lists.
-- **ProGuard**: Obfuscation tool used to protect the app code.
-- **Certificate Pinning**: Ensures secure connections by pinning SSL certificates.
-- **Lottie**: Library for rendering animations.
-- **Shimmer**: Adds shimmer effects to UI components.
-- **LeakCanary**: Tool for detecting memory leaks during development.
-- **ShowMoreText (by Sanjay Prajapat)**: Custom view for showing expandable text.
-
-#### Screenshots
-![](CinemaDatabase/banner1-light.png)
-![](CinemaDatabase/banner2-light.png)
-![](CinemaDatabase/banner3-light.png)
-
 ##
 
 ### Coding Story App 
 ![App Screenshot](CodingStoryApp/main_banner.png)
-[https://github.com/fadhlansulistiyo/CodingStoryApp](https://github.com/fadhlansulistiyo/CodingStoryApp)
 
 This is an Android application designed for sharing stories from the Dicoding academy. The application retrieves data using the Dicoding API and integrates various modern Android development technologies.
+
+##### [Click Here for More Details >](https://github.com/fadhlansulistiyo/CodingStoryApp)
 
 #### Features
 
@@ -70,20 +44,6 @@ This is an Android application designed for sharing stories from the Dicoding ac
 - **Location Services**: Integrated with FusedLocationProviderClient for location-based features.
 - **Coroutines**: Manages asynchronous operations using Kotlin Coroutines.
 
-#### Tech Stack
-- **Material Design Components**: `com.google.android.material:material`
-- **Room Database**: `androidx.room:room-runtime`, `androidx.room:room-ktx`
-- **Paging 3**: `androidx.paging:paging-runtime-ktx`
-- **Retrofit**: `com.squareup.retrofit2:retrofit`, `com.squareup.retrofit2:converter-gson`
-- **LiveData**: `androidx.lifecycle:lifecycle-livedata-ktx`
-- **DataStore**: `androidx.datastore:datastore-preferences`
-- **Google Maps API**: `com.google.android.gms:play-services-maps`
-- **FusedLocationProviderClient**: `com.google.android.gms:play-services-location`
-- **Kotlin Coroutines**: `org.jetbrains.kotlinx:kotlinx-coroutines-core`, `org.jetbrains.kotlinx:kotlinx-coroutines-android`
-
-#### Screenshots 
-![](CodingStoryApp/banner1.png)
-![](CodingStoryApp/banner2.png) 
 ##
 
 <br>
