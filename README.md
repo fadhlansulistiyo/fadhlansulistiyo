@@ -4,16 +4,16 @@
 
 Welcome to my Portfolio profile! I am Fadhlan Sulistiyo Hidayat, a passionate Android Developer and an Informatics graduate from Singaperbangsa University Karawang. I thrive on creating innovative and efficient Android applications, constantly learning, and growing in the field of mobile development.
 
-## 🌟 Projects
+# 🌟 Projects
 
-### ML Android Lab
 ![App Screenshot](MLAndroidLab/banner.png)
+## ML Android Lab
 
 ML Android Lab is a demo application showcasing the implementation of various machine learning techniques on Android, using frameworks like ML Kit, TensorFlow Lite, MediaPipe, Firebase Machine Learning, and Generative AI, all developed with Kotlin and the latest best practices.
 
-##### [Click Here for More Details >](https://github.com/fadhlansulistiyo/MLAndroidLab)
+### [Click Here for More Details, Screenshots, etc >](https://github.com/fadhlansulistiyo/MLAndroidLab)
 
-#### Features
+### Features
 - **Text Recognition**: Detect and extract text from images in real-time.
 - **Barcode Scanning**: Scan and process barcodes from live camera input.
 - **Image Classification**: Classify objects in images using pre-trained models.
@@ -27,14 +27,14 @@ ML Android Lab is a demo application showcasing the implementation of various ma
 
 ##
 
-### Cinema Database (CinDes)
 ![App Screenshot](CinemaDatabase/main_banner_v2.png)
+## Cinema Database (CinDes)
 
 Cinema Database (CinDes) is an Android application that showcases a collection of movies and TV shows, with data sourced directly from the TMDB API. Users can easily browse through popular titles, access detailed information, and discover new content. CinDes features a user-friendly interface, designed to provide a smooth and engaging browsing experience. 
 
-##### [Click Here for More Details >](https://github.com/fadhlansulistiyo/CinemaDatabase)
+### [Click Here for More Details, Screenshots, etc >](https://github.com/fadhlansulistiyo/CinemaDatabase)
 
-#### Features
+### Features
 - Browse Movies & TV Shows: Explore a vast collection of popular and top-rated movies and TV shows.
 - Detailed Information: View comprehensive details about each title, including synopsis, release date, ratings, and more.
 - Trending & Popular People: Discover trending and popular actors, directors, and other celebrities, with detailed profiles for each.
@@ -45,14 +45,14 @@ Cinema Database (CinDes) is an Android application that showcases a collection o
 
 ##
 
-### Coding Story App 
 ![App Screenshot](CodingStoryApp/main_banner.png)
+## Coding Story App 
 
 This is an Android application designed for sharing stories from the Dicoding academy. The application retrieves data using the Dicoding API and integrates various modern Android development technologies.
 
-##### [Click Here for More Details >](https://github.com/fadhlansulistiyo/CodingStoryApp)
+### [Click Here for More Details, Screenshots, etc >](https://github.com/fadhlansulistiyo/CodingStoryApp)
 
-#### Features
+### Features
 
 - **Stories Sharing**: Share your stories from the Dicoding academy.
 - **Maps Stories**: View stories on a map, enabled by the Google Maps API.
