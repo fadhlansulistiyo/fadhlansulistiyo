@@ -6,6 +6,27 @@ Welcome to my Portfolio profile! I am Fadhlan Sulistiyo Hidayat, a passionate An
 
 ## 🌟 Projects
 
+### ML Android Lab
+![App Screenshot](MLAndroidLab/banner.png)
+
+ML Android Lab is a demo application showcasing the implementation of various machine learning techniques on Android, using frameworks like ML Kit, TensorFlow Lite, MediaPipe, Firebase Machine Learning, and Generative AI, all developed with Kotlin and the latest best practices.
+
+##### [Click Here for More Details >](https://github.com/fadhlansulistiyo/MLAndroidLab)
+
+#### Features
+- **Text Recognition**: Detect and extract text from images in real-time.
+- **Barcode Scanning**: Scan and process barcodes from live camera input.
+- **Image Classification**: Classify objects in images using pre-trained models.
+- **Prediction**: Make predictions using custom-trained TensorFlow Lite models.
+- **Image Classification with MediaPipe**: Leverage MediaPipe for advanced image classification.
+- **Audio Classification**: Classify different types of audio data.
+- **Sentiment Text Classification**: Perform sentiment analysis on text data using MediaPipe.
+- **Custom Model Deployment**: Deploy and use custom machine learning models hosted on Firebase.
+- **Smart Reply with ML Kit**: Generate contextually appropriate replies based on input text.
+- **BERT Question & Answer**: Implement BERT (Bidirectional Encoder Representations from Transformers) for answering questions based on input text.
+
+##
+
 ### Cinema Database (CinDes)
 ![App Screenshot](CinemaDatabase/main_banner_v2.png)
 
